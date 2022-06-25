@@ -1,4 +1,4 @@
-Hi 👋 My name is Dilshod
+Salom 👋 Mening ismim Dilshod
 ========================
 
 FullStack Developer
