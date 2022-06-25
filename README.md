@@ -4,13 +4,13 @@ Hi 👋 My name is Dilshod
 FullStack Developer
 -------------------
 
-* 🌍  I'm based in Uzbektiston, Qoraqolpoqiston Respublikasi, Elliqal'a tumani
-* 🖥️  See my portfolio at [Mening Loyiham](http://dreamcode.uz)
-* ✉️  You can contact me at [javadeveloperbackend999@gmail.com](mailto:javadeveloperbackend999@gmail.com)
-* 🧠  I'm learning Svelte.js
-* 🤝  I'm open to collaborating on Css framework yaratish
+* 🌍  Men Uzbektiston, Qoraqolpoqiston Respublikasi, Elliqal'a tumanida yashayman
+* 🖥️  Mening portfoliomni ko'ring [Mening Loyiham](http://dreamcode.uz)
+* ✉️  Men bilan bog'lanish uchun email [javadeveloperbackend999@gmail.com](mailto:javadeveloperbackend999@gmail.com)
+* 🧠  Men Svelte.js-ni o'rganyapman
+* 🤝  Men loyiha qilishga tayyorman
 
-### Skills
+### Ko'nikmalar
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -30,7 +30,7 @@ FullStack Developer
 </p>
 
 
-### Socials
+### Ijtimoiy Tarmoqlar
 
 <p align="left"> <a href="https://www.github.com/DreamCode-Uz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.youtube.com/c/DREAMCODER UZBEK](https://www.youtube.com/channel/UCe2rfGLSM3Ojf2wu-vAQqBA)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
