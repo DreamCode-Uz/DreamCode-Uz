@@ -4,7 +4,7 @@ Salom 👋 Mening ismim Dilshod
 FullStack Developer
 -------------------
 
-* 🌍  Men Uzbektiston, Qoraqolpoqiston Respublikasi, Elliqal'a tumanida yashayman
+* 🌍  Men Uzbektiston, Qoraqolpoqiston Respublikasi, Ellikqal'a tumanida yashayman
 * 🖥️  Mening portfoliomni ko'ring [Mening Loyiham](http://dreamcode.uz)
 * ✉️  Men bilan bog'lanish uchun email [javadeveloperbackend999@gmail.com](mailto:javadeveloperbackend999@gmail.com)
 * 🧠  Men Spring Security-ni o'rganyapman
