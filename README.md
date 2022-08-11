@@ -6,7 +6,7 @@ FullStack Developer
 
 * 🌍  Men Uzbektiston, Qoraqolpoqiston Respublikasi, Ellikqal'a tumanida yashayman
 * 🖥️  Mening portfoliomni ko'ring [Mening Loyiham](http://dreamcode.uz)
-* ✉️  Men bilan bog'lanish uchun email [javadeveloperbackend999@gmail.com](mailto:javadeveloperbackend999@gmail.com)
+* ✉️  Men bilan bog'lanish uchun email [darkprohub-uz@yandex.com](mailto:darkprohub-uz@yandex.com)
 * 🧠  Men Spring Security-ni o'rganyapman
 * 🤝  Men loyiha qilishga tayyorman
 
