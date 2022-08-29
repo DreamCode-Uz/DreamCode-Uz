@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 O'zim haqimda:
 Salom 👋 Mening ismim Dilshod<br>========================<br><br>FullStack Developer<br>-------------------<br><br>* 🌍  Men Uzbektiston, Qoraqolpoqiston Respublikasi, Ellikqal'a tumanida yashayman<br>* 🖥️  Mening portfoliomni ko'ring [Mening Loyiham](http://dreamcode.uz)<br>* ✉️  Men bilan bog'lanish uchun email [darkprohub-uz@yandex.com](mailto:darkprohub-uz@yandex.com)<br>* 🧠  Men Spring Security-ni o'rganyapman<br>* 🤝  Men loyiha qilishga tayyorman
 
 
-## 🌐 Socials:
+## 🌐 Ijtimoiy tarmoqlar:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dilshodbek.fayzullayev.79) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCe2rfGLSM3Ojf2wu-vAQqBA)
 
 # 💻 Tech Stack:
