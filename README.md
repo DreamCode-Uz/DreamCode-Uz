@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 O'zim haqimda:
 Salom 👋 Mening ismim Dilshod<br>========================<br><br>FullStack Developer<br>-------------------<br><br>* 🌍  Men Uzbektiston, Qoraqolpoqiston Respublikasi, Ellikqal'a tumanida yashayman<br>* 🖥️  Mening portfoliomni ko'ring [Mening Loyiham](http://dreamcode.uz)<br>* ✉️  Men bilan bog'lanish uchun email [darkprohub-uz@yandex.com](mailto:darkprohub-uz@yandex.com)<br>* 🧠  Men Spring Security-ni o'rganyapman<br>* 🤝  Men loyiha qilishga tayyorman
 
 
