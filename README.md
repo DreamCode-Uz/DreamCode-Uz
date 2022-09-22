@@ -19,7 +19,7 @@ Salom 👋 Mening ismim Dilshod<br>========================<br><br>FullStack Dev
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DreamCode-Uz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![preview](https://visitcount.itsvg.in/api?id=DreamCode-Uz&icon=0&color=0)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/74fca7cb-3b76-432e-a7dd-f2cb6513857a.svg)](https://wakatime.com/@74fca7cb-3b76-432e-a7dd-f2cb6513857a)
 
 
